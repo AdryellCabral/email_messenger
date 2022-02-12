@@ -1,6 +1,6 @@
+.env
 /node_modules*
 dist/
-build/
 
 coverage
 
@@ -10,5 +10,4 @@ tmp/uploads/*
 !tmp/uploads/.gitkeep
 .ds-store
 
-.env
 
